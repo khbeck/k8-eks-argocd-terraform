@@ -15,7 +15,7 @@ metadata:
   namespace: argocd
 spec:
   rules:
-  - host: argo.jayforweb.com
+  - host: argo.issbussin.com
     http:
       paths:
       - path: /
